@@ -1,7 +1,7 @@
 {
-  "name": "STS Drones · Test AESA",
+  "name": "STS Drones · Temario y Test AESA",
   "short_name": "STS Drones",
-  "description": "509 preguntas originales de preparación STS para A1/A3",
+  "description": "Temario de 8 materias y 509 preguntas para preparar STS-01 y STS-02 con A1/A3",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
